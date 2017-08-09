@@ -10,7 +10,7 @@ def intro
   puts "."*30
   puts "."*30
   puts "."*30
-  sleep(5)
+  sleep(6)
   system("clear")
 end
 
@@ -40,7 +40,7 @@ def knife_initial
   puts "....................................."
   puts ".I should find something to us it on."
   puts "....................................."
-  sleep(6)
+  sleep(8)
   system("clear")
 
   while runner == 2
@@ -62,7 +62,7 @@ end
 
 def knife_option
   puts "...................................."
-  puts ".maybe I should give myselve a trim."
+  puts ".maybe I should give myself a trim.."
   puts "...................................."
   puts "...................................."
   puts "..............________.............."
@@ -140,7 +140,7 @@ def beetroot_initial
   puts ".all one needs in life is a beetroot."
   puts "....................................."
   puts "....................................."
-  sleep(6)
+  sleep(7)
   system("clear")
 
   while runner == 2
